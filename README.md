@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=Donish99&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Donish99)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Akhmadullo's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=Donish99&country_code=uzbekistan)](https://github.com/Muhammadsher)
